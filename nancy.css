@@ -1,0 +1,13 @@
+body h1 {
+    color: white;
+    background-color: #696cff;
+  }
+  body{
+    border-style: solid;
+    border-radius: 10px;
+  border-color: #696cff;
+  }
+  h2 {
+    color: #696coi;
+    margin-left: 40px;
+  }
